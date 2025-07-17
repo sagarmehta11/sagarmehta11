@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sagar Mehta
 ===================================================================================================================================
 
-Full Stack Web Developer
+ML Engineer
 ------------------------
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [sagarmeht4@gmail.com](mailto:sagarmeht4@gmail.com)
-* 🧠  I'm learning React.js
+* 🧠  Probably training models
 
 <a href="https://www.github.com/sagarmehta11" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sagarmehta11?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/sagarmehta_1" target="_blank" rel="noreferrer"><img
@@ -49,7 +49,7 @@ src="https://img.shields.io/twitter/follow/sagarmehta_1?logo=twitter&style=for-t
 
 ### Badges
 
-<b>My GitHub Stats</b>
+///<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sagarmehta11"><img src="https://github-readme-stats.vercel.app/api?username=sagarmehta11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sagarmehta11's GitHub stats" /></a>
 
